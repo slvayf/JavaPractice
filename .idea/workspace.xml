@@ -22,6 +22,31 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DateCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.DateCalc" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DateCalc" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,10 +62,19 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="4" key="CommitChangelistDialog2" timestamp="1581937222119">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="620" y="7" key="CommitChangelistDialog2" timestamp="1583333217984">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="372" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581937222119" />
+    <state x="620" y="7" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1583333217984" />
+    <state x="59" y="0" key="DiffContextDialog" timestamp="1583333215674">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="59" y="0" key="DiffContextDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583333215674" />
+    <state x="665" y="258" key="SettingsEditor" timestamp="1583333182196">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="665" y="258" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1583333182196" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1581937226965">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
