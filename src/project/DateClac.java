@@ -117,7 +117,7 @@ class DateCalc extends JFrame implements CaretListener {
             try {
                 dategetc = format.parse(dateget);
             } catch (ParseException e) {
-                System.out.println("日期获取失败");
+                System.out.println("日期格式化失败");
             }
 
             text_dateout3.setText("两个日期的差距： " + differentDaysByMillisecond(datenowgetc, dategetc) + " 天");
