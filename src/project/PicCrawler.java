@@ -10,15 +10,20 @@ import java.net.URLConnection;
 public class PicCrawler {
 
     public static void main(String args[]) {
-        
+        String urlString = "http://pic.netbian.com/uploads/allimg/200618/005100-1592412660d6f4.jpg";
+        try {
+            download(urlString,"pic.jpg","./pic");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
     /**
      * 根据路径 下载图片 然后 保存到对应的目录下
      *
-     * @param urlString 下载源地址路径 http://media.expedia.com/hotels/1000000/10000/100/1/1_17_b.jpg
+     * @param urlString 下载源地址路径
      * @param filename  文件名
-     * @param savePath  保存路径 /jdylog/pic/JDY000001
+     * @param savePath  保存路径
      * @return
      * @throws Exception
      */
